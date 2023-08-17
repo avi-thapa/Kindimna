@@ -1,8 +1,6 @@
-# Kindim
+# Kindimna
 
-# ECommerce Project README
-
-Welcome to the ECommerce Project repository! This project is focused on building a comprehensive e-commerce platform that provides a seamless shopping experience for customers and efficient management tools for administrators.
+Welcome to the Kindimna repository! This project is focused on building a comprehensive e-commerce platform that provides a seamless shopping experience for customers and efficient management tools for administrators.
 
 ## Table of Contents
 
